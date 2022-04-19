@@ -1,0 +1,11 @@
+This is awesome file I added directly from the Github.com
+And now I am about to commit directly to remote repository
+This is not something we would do normally
+We are just trying simulate situation where remote repository is history ahead of local remote repository
+In plain english remote has one additional commit that local does not have
+------------------------------------------------------------------------------------------------
+Bu, doğrudan Github.com'dan eklediğim harika bir dosya.
+Ve şimdi doğrudan uzak depoya bağlanmak üzereyim
+Bu normalde yapacağımız bir şey değil
+Sadece uzak havuzun yerel uzak havuzun önünde olduğu durumu simüle etmeye çalışıyoruz.
+Düz ingilizce uzaktan kumandada, yerelin sahip olmadığı bir ek taahhüt vardır.
